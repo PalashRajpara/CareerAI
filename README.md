@@ -1,4 +1,4 @@
-# CareerAI
+# CareerAI - Skill Gap Analysis System
 
 CareerAI is a full-stack career platform with a Flask backend and a React frontend.
 
